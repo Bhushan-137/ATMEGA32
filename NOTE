@@ -1,3 +1,4 @@
 Always verify that the source file and header file you use have the same names. They should not be titled as different names.
+The files with .c extension are source files while the ones with .h extension are header files.
 Also, the Interrupt Service Routines which are commented in the source code in my files must be copied to the main file.
 Use these files and Enjoy Coding, Enjoy Electronics!

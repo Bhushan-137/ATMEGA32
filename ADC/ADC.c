@@ -1,9 +1,4 @@
-/*
- * ADCp.c
- *
- * Created: 5/15/2018 2:53:01 PM
- *  Author: Pranjali Narkhede
- */
+
 //ADC// 
 
 //Here converted DC value is stored in address p and (p+1). You can access the output by defining PORTB=*p and PORTC=*(p+1) in your main program.

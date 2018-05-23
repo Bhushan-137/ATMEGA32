@@ -2,7 +2,7 @@
  * TimerHead.c
  *
  * Created: 5/10/2018 3:49:55 PM
- *  Author: Pranjali Narkhede
+ *  Author: Bhushan Narkhede
  */ 
 
 //To generate wave pulses of required time period and duty cycle in various modes and also a counter to calculate frequency of input wave. 
